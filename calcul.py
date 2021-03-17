@@ -3,6 +3,6 @@ def add_four(x):
 
 
 def test_add_four_to_one_equals_five():
-    actual = add_four(2)
+    actual = ad_four(2)
     expected = 6
     assert actual == expected
